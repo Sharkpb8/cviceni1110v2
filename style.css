@@ -1,0 +1,49 @@
+
+div {
+	box-sizing: border-box;
+	padding: 20px;
+    text-transform: uppercase;
+ }
+
+.container {
+    background: #EBF7F8;
+	width: 1024px;
+	margin: 0 auto;
+}
+
+
+.header {
+    background: #FF9C56;
+	overflow: auto;
+}
+
+
+.logo {
+    background: red;
+	float: left;
+}
+
+.navigation {
+    background: red;
+	float: right;
+}
+
+.sidebar {
+    background: orange;
+	float: left;
+	width: 250px;
+	height: 300px;
+}
+
+.main-content {
+    background: gray;
+	color: #fff;
+	float: left;
+	width: 734px;
+	height: 300px;
+}
+
+.footer {
+    background: #aad638;
+	clear: both;
+}
